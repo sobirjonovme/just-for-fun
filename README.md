@@ -13,7 +13,3 @@ Feel free to browse the repository and run any of the programs that catch your i
 ## Contributing
 
 As this is a personal repository, I am not accepting contributions at this time. However, if you have any suggestions or feedback, feel free to create an issue in the repository.
-
-## License
-
-This repository is licensed under the [Insert license here] license.
